@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smallSpace">6dp</dimen>
+    <dimen name="avatarSize">64dp</dimen>
+    <dimen name="mediumFontSize">16sp</dimen>
+</resources>
